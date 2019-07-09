@@ -1,2 +1,2 @@
-echo ""[DHello World : %date%:%time%"
-echo ""[D[D[CI am in RFE branch"
+echo "Hello World : %date%:%time%"
+echo "I am in RFE branch"
